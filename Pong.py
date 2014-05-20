@@ -1,5 +1,11 @@
-# Implementation of classic arcade game Pong
+""" 
+Author: Shahzeb Siddiqui
+Date:   04/19/2014
+Description: This is an implementation of the classic arcade game Pong
 
+Note: This code works with codeskulptor.org and will not work with tradition Python compiler because it uses library simplegui
+      which is a custom made library
+"""
 import simplegui
 import random
 
